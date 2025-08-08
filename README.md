@@ -1,5 +1,5 @@
 # USDA-ARS Vera
-R scripts from our paper, "Registration of 'USDA-ARS Vera': A new public hop cultivar with tropical, stone-fruit aroma and powdery mildew resistance"
+R scripts and datasets from our paper, "Registration of 'USDA-ARS Vera': A new public hop cultivar with tropical, stone-fruit aroma and powdery mildew resistance"
 
 ## Scripts
 1. Vera Data Analyses.R - includes analyis of hop chemistry, yields (experiment station & on-farm relative to state-wide averages), downy mildew (controlled environment and on-farm), powdery mildew, and hop box cone moprhological analyses.
