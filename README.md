@@ -18,4 +18,5 @@ R scripts from our paper, "Registration of 'USDA-ARS Vera': A new public hop cul
 10. Historical Hop Yields 2022-2024.xlsx
 11. HopSource Results.xlsx
 
-## Natural Language Processing of Tasting Panel Comments - please visit: https://github.com/maggie-reiter/hops-sensory-analysis
+## Natural Language Processing of Tasting Panel Comments
+Visit: https://github.com/maggie-reiter/hops-sensory-analysis
