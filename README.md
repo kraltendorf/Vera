@@ -5,6 +5,12 @@ R scripts and datasets from our paper, "Registration of 'USDA-ARS Vera': A new p
 1. Vera Data Analyses.R - includes analysis of hop chemistry, yields (experiment station & on-farm relative to statewide averages), downy mildew (controlled environment and on-farm), powdery mildew, and hop box cone moprhology
 3. Vera Spider Plots.R - includes analysis of sensory descriptors for dry rubbed hops and beer
 
+## Notebooks
+1. 1_clean_data.ipynb - data cleaning and preprocessing of sensory comments
+2. 2_keywords_phrases.ipynb - keywords and phrases extraction from cleaned sensory comments
+
+See `Notebooks/README.md` for detailed methodology and findings.
+
 ## Data
 1. Chemistry.xlsx
 2. Yield.xlsx
@@ -17,6 +23,4 @@ R scripts and datasets from our paper, "Registration of 'USDA-ARS Vera': A new p
 9. Historical Hop Yields.csv
 10. Historical Hop Yields 2022-2024.xlsx
 11. HopSource Results.xlsx
-
-## Natural Language Processing of Tasting Panel Comments
-Visit: https://github.com/maggie-reiter/hops-sensory-analysis
+12. Vera Sensory Comments.csv
