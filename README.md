@@ -14,7 +14,7 @@ R scripts and datasets from our paper, "Registration of 'USDA-ARS Vera': A new p
 6. PM_v6.csv
 7. PM_200.csv
 8. PM_204.csv
-9. Historical Hop Yields.xlsx
+9. Historical Hop Yields.csv
 10. Historical Hop Yields 2022-2024.xlsx
 11. HopSource Results.xlsx
 
