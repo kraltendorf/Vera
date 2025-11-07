@@ -83,4 +83,4 @@ Prevalence of flavor expressions based on grouped keyword patterns (e.g., "tropi
 
 Analysis supports new hop variety registration by profiling sensory attributes and demonstrating distinct flavor profile and market potential.
 
-*Journal of Plant Registrations, 2025*
+**Citation:** Registration of 'USDA-ARS Vera': A new public hop cultivar with tropical, stone-fruit aroma and powdery mildew resistance. *Journal of Plant Registrations*, 2025. <https://doi.org/10.1002/plr2.70033>
